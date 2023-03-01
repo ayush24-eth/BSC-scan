@@ -1,0 +1,11 @@
+.tablecell{
+    font-size: medium !important;
+    /* color: grey !important; */
+    background-color: whitesmoke;
+}
+.heading{
+    /* color: blue !important; */
+    font-weight: 550 !important;
+    font-size: large !important;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif !important;
+}
